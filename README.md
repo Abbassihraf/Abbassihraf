@@ -1,6 +1,6 @@
 ### Hi I'm Achraf 👋💻
 
-<img align="right" src="https://github.com/Abbassihraf/Abbassihraf/blob/master/reactJs.png" alt="Illustration of dev" width=450px height=465px/>
+<img align="right" src="https://github.com/Abbassihraf/Abbassihraf/blob/master/reactJs.png" alt="Illustration of dev" width=450px height=384px/>
 I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with one year of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
 
