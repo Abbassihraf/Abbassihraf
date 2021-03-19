@@ -11,7 +11,7 @@ I am a web developer, ambitious person who has developed a mature and responsibl
 - ⚡ Fun fact: I love 🎮 and 📷 too!
 
 Find me around the web 🌎:
-Go to my public portfolio aymendev.me 📹 ✍🏾
+Go to my public portfolio :  📹 ✍🏾
 
 Sharing updates on [LinkedIn](https://www.linkedin.com/in/achraf-abbassi-21453b18a/) 💼
 Go to my public portfolio :
